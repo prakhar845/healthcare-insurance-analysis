@@ -1,0 +1,37 @@
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+.Python
+build/
+dist/
+.venv/
+venv/
+env/
+.mypy_cache/
+.pytest_cache/
+.tox/
+.coverage
+.coverage.*
+htmlcov/
+.ipynb_checkpoints/  # Jupyter Notebook checkpoints
+*.log
+*.sqlite3
+*.csv  # Often generated data, might be large
+*.xlsx # Often input data, might be large or sensitive, consider if you want to commit small ones
+
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+.env
+.env.*
+!.env.example
