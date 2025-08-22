@@ -32,7 +32,7 @@ To run this project, you will need:
 
 ### Installation
 1. Clone the repository:
-   ```bash
+   ``bash
    git clone https://github.com/prakhar845/healthcare-insurance-analysis.git
    cd healthcare-insurance-analysis
 
