@@ -22,6 +22,8 @@ healthcare-insurance-analysis/
 ├── Had major surgery with cancer history.sql # SQL script (example)
 ├── .gitignore                           # Git ignore file
 └── README.md                            # Project README
+└── requirements.txt                     # Project dependencies
+
 
 ## Getting Started
 
